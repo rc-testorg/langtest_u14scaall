@@ -9,7 +9,7 @@ scala:
     - 2.11.6
     - 2.10.6
     - 2.11.8
-jdk:
+jdk: 
   - openjdk7
   - oraclejdk7
   - oraclejdk8    
