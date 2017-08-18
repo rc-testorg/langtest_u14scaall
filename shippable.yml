@@ -2,11 +2,11 @@
 language: scala
 
 #version number
-scala:
-    - 2.11
-    - 2.9
-    - 2.10
-    - 2.12
+scala:    
+    - 2.9.3
+    - 2.10.6
+    - 2.11.11
+    - 2.12.3
     
 jdk:
   - openjdk7
