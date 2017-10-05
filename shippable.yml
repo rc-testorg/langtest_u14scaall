@@ -29,6 +29,3 @@ build:
     - java -version
     - echo $SHIPPABLE_SCALA_VERSION
 
-
-
-
